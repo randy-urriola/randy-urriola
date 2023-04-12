@@ -17,7 +17,7 @@
 - :bookmark_tabs: Learning Angular.
 - :fire: Improving my knowledge in JavaScript.
 - :sparkles: Working on my personal proyects.
-- :telescope: Looking for some courses about framework and Back-End tech for learn.
+- :telescope: Looking for some courses about frameworks and Back-End tech for learn.
 - More Coming 🔜
 
 ## :large_blue_diamond: Extra things I do daily (or trying :sweat_smile:)
@@ -26,7 +26,7 @@
 - :pencil: Learn English.
 - :book: Read a book or articles. 
 
-## 💻 Programming Lenaguages and Tools:
+## 💻 Programming Lenguages and Tools:
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"></code>&nbsp;&nbsp;
