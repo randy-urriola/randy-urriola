@@ -5,16 +5,16 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:randy.urriolah@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@ra_codes-9B35C1?style=flat&labelColor=9B35C1&logo=instagram&logoColor=white)](https://www.instagram.com/ra_codes/)
 ---
-<code>Welcome to my GitHub profile! I'm a systems and computer engineer and web developer from Panamá <img  alt ="pa" src="https://github.com/timoludwig/flagpack-dart-sass/blob/main/flags/4x3/pa.svg">.</code> <code>I really like programming because it keeps me thinking and improving my logical thinking.</code> <code>I've been always searching about topic that I think can help me for my professional live and also trying to be a better person than my old version.</code>:blush:
+Welcome to my GitHub profile! I'm a systems and computer engineer and web developer from Panamá <img  alt ="pa" src="https://github.com/timoludwig/flagpack-dart-sass/blob/main/flags/4x3/pa.svg">. I really like programming because it keeps me thinking and improving my logical thinking. I've been always searching about topic that I think can help me for my professional live and also trying to be a better person than my old version.:blush:
 <br/>
-💬 <code>Let's talk about technologies, programming lenguages and new things.</code>
+💬 Let's talk about technologies, programming lenguages and new things.
 <br/>
-:briefcase: <code>Check it out to my <a href="https://randy-urriola.github.io/Portfolio/" target="blank">Portfolio</a></code>
+:briefcase: Check it out to my <a href="https://randy-urriola.github.io/Portfolio/" target="blank">Portfolio</a>
 
 <img align="right" alt="gif" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="340"/>
 
 ## :large_blue_diamond: Things I'm currenly doing:
-- :bookmark_tabs: Learning Angular.
+- :bookmark_tabs: Learning Node.JS.
 - :fire: Improving my knowledge in JavaScript.
 - :sparkles: Working on my personal proyects.
 - :telescope: Looking for some courses about frameworks and Back-End tech for learn.
