@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer and web develo
 <img align="right" alt="gif" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="340"/>
 
 ## :large_blue_diamond: Things I'm currenly doing:
-- :bookmark_tabs: Learning Node.JS.
+- :bookmark_tabs: Learning Node.JS and React.
 - :fire: Improving my knowledge in JavaScript.
 - :sparkles: Working on my personal proyects.
 - :telescope: Looking for some courses about frameworks and Back-End tech for learn.
