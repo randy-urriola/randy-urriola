@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer and web develo
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass"></code>&nbsp;&nbsp;
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git"></code>&nbsp;&nbsp;
 <code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode"></code>&nbsp;&nbsp;
 <!--
