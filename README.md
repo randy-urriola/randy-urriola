@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:randy.urriolah@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@ra_codes-9B35C1?style=flat&labelColor=9B35C1&logo=instagram&logoColor=white)](https://www.instagram.com/ra_codes/)
 ---
-Welcome to my GitHub profile! I'm a systems and computer engineer and web developer from Panamá <img  alt ="pa" src="https://github.com/timoludwig/flagpack-dart-sass/blob/main/flags/4x3/pa.svg">. I really like programming because it keeps me thinking and improving my logical thinking. I've been always searching about topic that I think can help me for my professional live and also trying to be a better person than my old version.:blush:
+Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a data science enthusiast from Panamá <img  alt ="pa" src="https://github.com/timoludwig/flagpack-dart-sass/blob/main/flags/4x3/pa.svg">. I really like programming because it keeps me thinking and improving my logical thinking. I've been always searching about topic that I think can help me for my professional live and also trying to be a better person than my old version.:blush:
 <br/>
 💬 Let's talk about technologies, programming lenguages and new things.
 <br/>
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a systems and computer engineer and web develo
 <img align="right" alt="gif" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="340"/>
 
 ## :large_blue_diamond: Things I'm currenly doing:
-- :bookmark_tabs: Learning Node.JS and React.
-- :fire: Improving my knowledge in JavaScript.
+- :bookmark_tabs: Learning ML and Data Science.
+- :fire: Improving my knowledge in Python.
 - :sparkles: Working on my personal proyects.
 - :telescope: Looking for some courses about frameworks and Back-End tech for learn.
 - More Coming 🔜
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer and web develo
 - :book: Read a book or articles. 
 
 ## 💻 Programming Lenguages and Tools:
+<code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="Python"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"></code>&nbsp;&nbsp;
