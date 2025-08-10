@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/randy-urriola)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randy-urriola/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:randy.urriolah@gmail.com)
-[![Instagram](https://img.shields.io/badge/-@ra_codes-9B35C1?style=flat&labelColor=9B35C1&logo=instagram&logoColor=white)](https://www.instagram.com/ra_codes/)
+<!--[![Instagram](https://img.shields.io/badge/-@ra_codes-9B35C1?style=flat&labelColor=9B35C1&logo=instagram&logoColor=white)](https://www.instagram.com/ra_codes/)-->
 ---
 Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a data science enthusiast from Panamá <img  alt ="pa" src="https://github.com/timoludwig/flagpack-dart-sass/blob/main/flags/4x3/pa.svg">. I really like programming because it keeps me thinking and improving my logical thinking. I've been always searching about topic that I think can help me for my professional live and also trying to be a better person than my old version. :blush:
 <br/>
