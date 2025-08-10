@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a dat
 <br/>
 💬 Let's talk about technologies, programming lenguages and new things.
 <br/>
-:briefcase: Check it out to my <a href="https://randy-urriola.github.io/Portfolio/" target="blank">Portfolio</a>
+<!-- :briefcase: Check it out to my <a href="https://randy-urriola.github.io/Portfolio/" target="blank">Portfolio</a> -->
 
 <img align="right" alt="gif" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="340"/>
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a dat
 - :bookmark_tabs: Learning ML and Data Science.
 - :fire: Improving my knowledge in Python.
 - :sparkles: Working on my personal proyects.
-- :telescope: Looking for some courses about frameworks and Back-End tech for learn.
+- :telescope: Looking for some courses about Data Science and tech for learn.
 - More Coming 🔜
 
 ## :large_blue_diamond: Extra things I do daily (or trying :sweat_smile:)
