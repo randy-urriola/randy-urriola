@@ -27,16 +27,20 @@ Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a pro
 - :book: Read a book or articles. 
 
 ## 💻 Programming Lenguages and Tools:
+<code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp"></code>&nbsp;&nbsp;
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"></code>&nbsp;&nbsp;
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"></code>&nbsp;&nbsp;
 <code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"></code>&nbsp;&nbsp;
-<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"></code>&nbsp;&nbsp;
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle"></code>&nbsp;&nbsp;
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio"></code>&nbsp;&nbsp;
+<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass"></code>&nbsp;&nbsp;
-<code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git"></code>&nbsp;&nbsp;
 <code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode"></code>&nbsp;&nbsp;
 <!--
