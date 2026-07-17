@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm a systems and computer engineer, DBA and a pro
 <code><img width="7%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"></code>&nbsp;&nbsp;
 <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"></code>&nbsp;&nbsp;
+<code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver"></code>&nbsp;&nbsp;
 <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"></code>&nbsp;&nbsp;
